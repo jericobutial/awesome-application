@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_egmll_awesome_ap_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_egmll_awesome_ap_test</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>C152426@constellation.com</sys_created_by>
+            <sys_created_on>2024-07-10 09:22:36</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="awesome-application" source="x_egmll_awesome_ap">8e248df51b57825044cd0d85624bcbcc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="awesome-application">8e248df51b57825044cd0d85624bcbcc</sys_scope>
+            <sys_update_name>sys_documentation_x_egmll_awesome_ap_test_number_en</sys_update_name>
+            <sys_updated_by>C152426@constellation.com</sys_updated_by>
+            <sys_updated_on>2024-07-10 09:22:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

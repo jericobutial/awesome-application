@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_egmll_awesome_ap_test">x_egmll_awesome_ap_test</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TES</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>C152426@constellation.com</sys_created_by>
+        <sys_created_on>2024-07-10 09:22:35</sys_created_on>
+        <sys_id>1405817d1b57825044cd0d85624bcb98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TES</sys_name>
+        <sys_package display_value="awesome-application" source="x_egmll_awesome_ap">8e248df51b57825044cd0d85624bcbcc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="awesome-application">8e248df51b57825044cd0d85624bcbcc</sys_scope>
+        <sys_update_name>sys_number_1405817d1b57825044cd0d85624bcb98</sys_update_name>
+        <sys_updated_by>C152426@constellation.com</sys_updated_by>
+        <sys_updated_on>2024-07-10 09:22:35</sys_updated_on>
+    </sys_number>
+</record_update>

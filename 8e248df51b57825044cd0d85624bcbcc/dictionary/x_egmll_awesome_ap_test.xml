@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4c05817d1b57825044cd0d85624bcb00" label="test" max_length="40" name="x_egmll_awesome_ap_test" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Middle Name" mandatory="true" max_length="100" name="middle_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" mandatory="true" max_length="100" name="first_name" type="string"/>
+        <element label="Contact number" max_length="40" name="contact_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" mandatory="true" max_length="100" name="last_name" type="string"/>
+    </element>
+</database>
